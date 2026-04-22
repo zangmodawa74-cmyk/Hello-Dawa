@@ -6,7 +6,8 @@
 State the purpose of this SRS and the intended readership (developers, testers, auditors, regulators, customer).
 
 ### 1.2 · Scope of the Product
-- **Product name:** `<official name>`
+- **Product name:** 
+office suppies request System 
 - **What the product will do:** `<one paragraph>`
 - **What the product will NOT do:** `<one paragraph — scope boundaries>`
 - **Benefits / goals:** `<business outcomes>`
