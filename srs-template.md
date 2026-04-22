@@ -3,17 +3,16 @@ Office Supplies Request System
 ## 1. Introduction
 1.1 · Purpose
 
-It is intended for:
-
-Developers (implementation)
+It is intended for:Developers (implementation)
 Testers (validation & QA)
 System architects (design decisions)
 Project managers (planning & tracking)
 Stakeholders / customers (business alignment)
 
 1.2 · Scope of the Product
-Product name:
-Office Supplies Request System
+
+Product name: Office Supplies Request System
+
 What the product will do:
 The system provides a centralized platform for employees to request office supplies and for administrators to review, approve, or reject those requests. It includes inventory tracking, request status monitoring, analytics reporting, and a feedback/suggestion module. The system ensures transparency, efficiency, and automation in office supply management.
 What the product will NOT do:
@@ -45,13 +44,10 @@ Web Application UI/UX Best Practices
 This document outlines the system’s overall description, functional and non-functional requirements, interfaces, constraints, and verification criteria. It serves as a complete guide for design, development, testing, and deployment.
 
 ## 2. Overall Description
-2.1 · Product Perspective
-
+2.1 · Product Perspective:
 The system is a standalone web application that may later integrate with enterprise systems.
 
-Interfaces:
-
-System: Authentication services, database
+Interfaces:System: Authentication services, database
 User: Web browser (responsive UI)
 Hardware: Standard computers/mobile devices
 Software: Node.js / Django backend, SQL database
