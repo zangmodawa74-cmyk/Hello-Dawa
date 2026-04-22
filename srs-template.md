@@ -1,9 +1,7 @@
-SOFTWARE REQUIREMENTS SPECIFICATION (SRS)
 Office Supplies Request System
+
 ## 1. Introduction
 1.1 · Purpose
-
-This SRS defines the requirements for the Office Supplies Request System, a web-based dashboard for managing office inventory requests.
 
 It is intended for:
 
@@ -12,6 +10,7 @@ Testers (validation & QA)
 System architects (design decisions)
 Project managers (planning & tracking)
 Stakeholders / customers (business alignment)
+
 1.2 · Scope of the Product
 Product name:
 Office Supplies Request System
